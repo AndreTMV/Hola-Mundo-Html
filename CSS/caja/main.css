@@ -1,0 +1,36 @@
+body {
+  background-color: #c8c8c8;
+}
+#div1 {
+  border-radius: 1px;
+  padding: 8px;
+  background-color: #ffffff;
+  border-style: inset;
+  color: #575757;
+}
+#div2 {
+  border-radius: 1px;
+  padding: 8px;
+  background-color: #ffffff;
+  border-style: inset;
+  color: #575757;
+}
+#div3 {
+  padding: 8px;
+  background-color: #ffffff;
+  border-style: inset;
+  color: #575757;
+  border-radius: 1px;
+}
+#aceptar {
+  background-color: #3b83bd;
+  color: #ffffff;
+  border: none;
+  height: 30px;
+}
+#cancelar {
+  background-color: #c8c8c8;
+  color: #ffffff;
+  border: none;
+  height: 30px;
+}

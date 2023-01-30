@@ -1,0 +1,21 @@
+body {
+  background-color: #eee;
+}
+
+#invisible {
+  display: none;
+}
+span {
+  display: block;
+}
+
+p {
+  max-width: 350px;
+  background-color: #f00;
+  margin: auto;
+  position: fixed;
+  left: 15px;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+}

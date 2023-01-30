@@ -1,0 +1,19 @@
+head no muestra nada en navegador, incluye archivos js, css, o indicarle cosas
+al navegador
+body desplega cosas
+tittle le da el nombre a la pagina web
+h1, h2, h3 ... son  para agregar titulos
+p es para agregar parrafos
+br es para agregar una nueva linea
+hr es para agregar una linea horizontal entre etiquetas
+b es para hacer la letra negrita
+blockquote es para agregar citas
+code es para agregar codigo
+em es para texto con enfasis
+i es para texto con italica
+pre es para utilizar otro formato de letra
+s es para escribir letras tachadas
+small es texto pequeño
+strong es para lo mismo que b
+u es para subrayar el texto
+div es para secciones/divisiones
